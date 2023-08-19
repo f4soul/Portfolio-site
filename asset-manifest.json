@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b46463b2.css",
-    "main.js": "/static/js/main.21928b18.js",
+    "main.js": "/static/js/main.1edf57cf.js",
     "static/media/02-big.jpg": "/static/media/02-big.8957fe861e4def1b1d97.jpg",
     "static/media/03-big.jpg": "/static/media/03-big.952b91beecc6187d5d2f.jpg",
     "static/media/01-big.jpg": "/static/media/01-big.b93ff54078a2ed432b1d.jpg",
@@ -14,13 +14,15 @@
     "static/media/gitHub.svg": "/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
     "static/media/gitHub-black.svg": "/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
     "static/media/instagram.svg": "/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
-    "static/media/vk.svg": "/static/media/vk.ffb489eeac4ab842395ffb315910ea7f.svg",
+    "static/media/wa.svg": "/static/media/wa.eac5227a8b28e716e971271f4a574629.svg",
+    "static/media/vk.svg": "/static/media/vk.7064c74065956ea991705adedd335ed5.svg",
     "index.html": "/index.html",
+    "static/media/telegram.svg": "/static/media/telegram.d718831c3dc7bfd9be8e91aa4655ea2f.svg",
     "main.b46463b2.css.map": "/static/css/main.b46463b2.css.map",
-    "main.21928b18.js.map": "/static/js/main.21928b18.js.map"
+    "main.1edf57cf.js.map": "/static/js/main.1edf57cf.js.map"
   },
   "entrypoints": [
     "static/css/main.b46463b2.css",
-    "static/js/main.21928b18.js"
+    "static/js/main.1edf57cf.js"
   ]
 }
