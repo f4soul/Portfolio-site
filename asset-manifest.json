@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d9dcca2.css",
+    "main.js": "/static/js/main.0a70ae40.js",
+    "static/media/03-big.jpg": "/static/media/03-big.bf4d9cde7f0fdf9dd53d.jpg",
+    "static/media/02-big.jpg": "/static/media/02-big.c6139df1392ad134dc3b.jpg",
+    "static/media/05-big.jpg": "/static/media/05-big.51330763ea4028d06b52.jpg",
+    "static/media/01-big.jpg": "/static/media/01-big.8b550a461130c2e9f936.jpg",
+    "static/media/04-big.jpg": "/static/media/04-big.0fa68ceb7a0b86e388c6.jpg",
+    "static/media/03.jpg": "/static/media/03.905c5a10951e85e7d999.jpg",
+    "static/media/02.jpg": "/static/media/02.3e27fbec691c149557e5.jpg",
+    "static/media/05.jpg": "/static/media/05.e25bfab2087c7b34cbb8.jpg",
+    "static/media/header-bg.png": "/static/media/header-bg.5bf82a058f892ab7f237.png",
+    "static/media/04.jpg": "/static/media/04.3cdb9f8122c64815581c.jpg",
+    "static/media/01.jpg": "/static/media/01.e82394e1cd9b1898a988.jpg",
+    "static/media/sun.svg": "/static/media/sun.4d47962acd6c83e7e7aca592ec39545f.svg",
+    "static/media/moon.svg": "/static/media/moon.829f022e764b1d37016e364c5447dfdb.svg",
+    "static/media/gitHub.svg": "/static/media/gitHub.db1e3cfa3aa61658d837d82e113dc1fe.svg",
+    "static/media/gitHub-black.svg": "/static/media/gitHub-black.61157a57f0853aa9fd2f3622b730cdfc.svg",
+    "static/media/instagram.svg": "/static/media/instagram.c877a8275355fec38548544a6d0ab3b4.svg",
+    "static/media/netlify.svg": "/static/media/netlify.01cd9668c105650c4859656572c7683d.svg",
+    "static/media/wa.svg": "/static/media/wa.eac5227a8b28e716e971271f4a574629.svg",
+    "static/media/vk.svg": "/static/media/vk.7064c74065956ea991705adedd335ed5.svg",
+    "index.html": "/index.html",
+    "static/media/telegram.svg": "/static/media/telegram.d718831c3dc7bfd9be8e91aa4655ea2f.svg",
+    "main.1d9dcca2.css.map": "/static/css/main.1d9dcca2.css.map",
+    "main.0a70ae40.js.map": "/static/js/main.0a70ae40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d9dcca2.css",
+    "static/js/main.0a70ae40.js"
+  ]
+}
